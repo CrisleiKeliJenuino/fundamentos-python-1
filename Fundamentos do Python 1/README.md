@@ -54,6 +54,4 @@ Aprenda conceitos fundamentais de programação e comece a desenvolver suas habi
 
 - Exercícios práticos de cada módulo  
 - Projetos para fixação de conceitos  
-- Exemplos comentados de código  
-
----
+- Exemplos comentados de código

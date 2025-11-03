@@ -1,0 +1,1 @@
+# Um literal são dados cujos valores são determinados pelo próprio literal
